@@ -3,6 +3,8 @@
   box-sizing: border-box;
 }
 
+
+
 body {
   font-family: 'Courier New', Courier, monospace;
   padding: 30px;
@@ -17,7 +19,8 @@ body {
 }
 
 nav {
-  padding: 20px
+  padding: 20px;
+
 }
 
 aside {
@@ -54,4 +57,5 @@ aside {
     flex-direction: column;
   }
 }
+
 </style>
